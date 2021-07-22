@@ -10,7 +10,8 @@ For examples, see [PixzaCore-Data](https://github.com/PixzaRPG/PixzaCore-Data) w
 | Type            | Docs | Description |
 | --------------- | ---- | ----------- |
 | `manifest.json` | [here](./manifest.md) | Contains general information about the datapack |  
-| `/regions/*.json` | [here](./regions/regions.md) | World regions and region flags |
+| `/regions/**/*.json` | [here](./regions/regions.md) | World regions and region flags |
+| `/items/**/*.json` | [here](./items/items.md) | Items and item components |
 
 ## Deploying
 
